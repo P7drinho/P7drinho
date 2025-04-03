@@ -22,4 +22,4 @@
 
 </div></br>
 
-<p>Um esstudante apaixonado por tecnologia, buscando sempre aprender mais e mais... 📚💻</p>
+<p>Um esstudante apaixonado por tecnologia, buscando sempre aprender mais e mais... 📚💻</p> 
